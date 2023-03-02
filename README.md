@@ -1,8 +1,11 @@
 # news_app
 
-A new Flutter project.
+Today News is an app which provide major headlines news in different sections like sports , business ,
+entertainment , health , science , technology and open the news in sities using web view screen
+
 
 ## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
